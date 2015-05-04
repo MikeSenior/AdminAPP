@@ -4,7 +4,7 @@ A JIRA like program for website developers written for my AQA Computing Project 
 
 ## Running the server locally
 
-To run this locally, you will need: 
+If for some weird reason you want to run this heap of VB..
 
 - .NET Framework 3.5
 - MySQL Server
