@@ -1,0 +1,34 @@
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\bin\Debug\computingcoursework.exe
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\bin\Debug\computingcoursework.pdb
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\bin\Debug\computingcoursework.xml
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Debug\computingcoursework.vbproj.GenerateResource.Cache
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Debug\computingcoursework.exe
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Debug\computingcoursework.xml
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Debug\computingcoursework.pdb
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Debug\computingcoursework.vbprojResolveAssemblyReference.cache
+\\svrhome2.curricula.local\S\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.LoginForm1.resources
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.sqlloading.resources
+\\svrhome2.curricula.local\s\msenior\home\visual studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.errorform.resources
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\bin\Debug\computingcoursework.exe.config
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.clientform.resources
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.issueform.resources
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.generatereport.resources
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\bin\Debug\computingcoursework.exe.config
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\obj\x86\Debug\computingcoursework.exe
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\obj\x86\Debug\computingcoursework.xml
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\obj\x86\Debug\computingcoursework.pdb
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\bin\Debug\computingcoursework.exe
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\bin\Debug\computingcoursework.pdb
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\bin\Debug\computingcoursework.xml
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\obj\x86\Debug\computingcoursework.vbprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.errorform.resources
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.clientform.resources
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.generatereport.resources
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.issueform.resources
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.LoginForm1.resources
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\obj\x86\Debug\WindowsApplication1.sqlloading.resources
+C:\Users\Mike\Desktop\computingcoursework\computingcoursework\obj\x86\Debug\computingcoursework.vbproj.GenerateResource.Cache

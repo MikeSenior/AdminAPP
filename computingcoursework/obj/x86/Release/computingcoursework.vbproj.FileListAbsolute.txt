@@ -1,0 +1,11 @@
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\bin\Release\computingcoursework.exe
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\bin\Release\computingcoursework.pdb
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\bin\Release\computingcoursework.xml
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Release\WindowsApplication1.Form1.resources
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Release\WindowsApplication1.Resources.resources
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Release\computingcoursework.vbproj.GenerateResource.Cache
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Release\computingcoursework.exe
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Release\computingcoursework.xml
+\\svrhome2.curricula.local\s\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Release\computingcoursework.pdb
+\\svrhome2.curricula.local\S\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\bin\Release\MySql.Data.dll
+\\svrhome2.curricula.local\S\msenior\Home\Visual Studio 2010\Projects\computingcoursework\computingcoursework\obj\x86\Release\computingcoursework.vbprojResolveAssemblyReference.cache
