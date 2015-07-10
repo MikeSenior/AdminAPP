@@ -6,7 +6,7 @@ A JIRA like program for website developers written for my AQA Computing Project 
 
 If for some weird reason you want to run this heap of VB..
 
-- .NET Framework 3.5
+- Visual Basic 2010
 - MySQL Server
 - LAMP Stack server for frontend
 
