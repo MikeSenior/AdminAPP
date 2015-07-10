@@ -14,6 +14,3 @@ If for some weird reason you want to run this heap of VB..
 
 In heinsight I really wished I had made this whole project in PHP.
 
-Learning VB was bad and OOP in VB was bad.
-
-A bad time was had overall.
