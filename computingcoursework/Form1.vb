@@ -70,20 +70,7 @@ Public Class Form1
     Private Sub FlatClose1_Click(sender As System.Object, e As System.EventArgs) Handles FlatClose1.Click
         Me.Close()
     End Sub
-
     Private Sub FlatLabel1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
         generatereport.Show()
-    End Sub
-
-    Private Sub FlatStatusBar1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-
-    End Sub
-
-    Private Sub DataGridView2_CellContentClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs)
-
-    End Sub
-
-    Private Sub DataGridView1_CellContentClick_2(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs)
-
     End Sub
 End Class
