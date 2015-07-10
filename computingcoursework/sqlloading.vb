@@ -20,6 +20,7 @@ Public Class sqlloading
                 Me.Hide()
             Else
                 FlatProgressBar1.Value = 0
+                MessageBox.Show("There was an error communicating with the SQL server")
             End If
         Catch
         End Try
